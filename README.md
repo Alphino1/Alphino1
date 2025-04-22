@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Alphino1
-- 👀 I’m interested in Quantitative analysis
-- 🌱 I’m currently learning machine learning, deep learning
+Hey there, welcome!
+
+This space reflects my curiosity and work in AI, machine learning, and quantitative reasoning, especially where they intersect with scientific discovery and intelligence.
+
+Currently diving into: Machine learning, Deep learning, model interpretability, algorithmic thinking, and their applications in scientific discovery 
+
+What drives me: Building AI systems that not only perform well but also make sense
+
+Why I'm here: To learn, build, and collaborate on ideas that matter
 
 
-<!---
-Alphino1/Alphino1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by, feel free to explore or connect.
