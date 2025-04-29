@@ -6,8 +6,14 @@
 
 🧠 Machine Learning Intern @ IIT BHU<br>
 
-🌍 Summer Mentee @ University of California, Berkeley<br><br><br><br>🔬 Currently Working On<br><br>⚙️ Algorithmic & other approaches to autonomous scientific discovery<br><br>♾️ Investigating open-endedness and other learning frameworks<br><br>🧩 Exploring how AI systems can simulate human-like abstraction, reasoning, and beyond<br><br><br><br><br><br>🧊 Fun Fact<br><br>I contribute to global computing initiatives like GIMPS and BOINC, supporting large-scale distributed scientific computation across the world.
+🌍 Summer Mentee @ University of California, Berkeley<br><br><br><br>🔬 Currently Working On<br><br>⚙️ Algorithmic & other approaches to autonomous scientific discovery<br><br>♾️ Investigating open-endedness and other learning frameworks<br><br>🧩 Exploring how AI systems can simulate human-like abstraction, reasoning, and beyond<br><br><br><br><br><br>🧊 Fun Fact<br><br>I contribute to global computing initiatives like GIMPS and BOINC, supporting large scale distributed scientific computation across the world.
 
+---
+
+## 📫 Contact
+**Email:** [research.autonomous.ai@gmail.com](mailto:research.autonomous.ai@gmail.com)
+
+---
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NeuroSwarm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SynthMind_) 
