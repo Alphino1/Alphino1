@@ -1,12 +1,12 @@
-Hey there, welcome!
+Hello everyone,
 
-This space reflects my curiosity and work in AI, machine learning, and quantitative reasoning, especially where they intersect with scientific discovery and intelligence.
+This space is where I explore ideas in artificial intelligence, machine learning, and how they connect with science and intelligence.
 
-Currently diving into: Machine learning, Deep learning, model interpretability, algorithmic thinking, and their applications in scientific discovery 
+Right now, I am focused on open endedness, deep learning, and building systems that think algorithmically especially in the context of autonomous scientific discovery.
 
-What drives me: Building AI systems that not only perform well but also make sense
+What keeps me going? Exploring and evolving AI that goes beyond just working: it actually makes sense. I am always learning and deepening my understanding.
+.
 
-Why I'm here: To learn, build, and collaborate on ideas that matter
+I am here to learn, build, and work on ideas that matter.
 
-
-Thanks for stopping by, feel free to explore or connect.
+Glad you stopped by: feel free to look around or reach out.
