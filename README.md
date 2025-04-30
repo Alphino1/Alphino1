@@ -16,7 +16,7 @@
 ---
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NeuroSwarm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SynthMind_) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rahuljaisy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SynthMind_)
 
 # 💻 **Tech Stack**
 
