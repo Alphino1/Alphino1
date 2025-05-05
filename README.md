@@ -6,8 +6,7 @@
 
 🧠 Machine Learning Intern @ IIT BHU<br>
 
-🌍 Summer Mentee @ University of California, Berkeley<br><br><br><br>🔬 Currently<br><br>⚙️ Algorithmic & other approaches to autonomous scientific discovery<br><br>♾️ Open-endedness and other learning frameworks<br><br>🧩 Exploring how AI systems can simulate human-like abstraction, reasoning, and beyond<br><br><br><br>🧊 Fun Fact<br><br>I sometimes contribute to global computing initiatives like GIMPS and BOINC, supporting large scale distributed scientific computation across the world.
-
+🌍 Summer Mentee @ University of California, Berkeley<br><br><br><br>🔬 Currently<br><br>⚙️ Algorithmic & other approaches to autonomous scientific discovery<br><br>♾️ Open-endedness and other learning frameworks<br><br>🧩 Exploring how artificial intelligence can replicate anf surpass human abstraction, reasoning, and problem-solving abilities.<br><br><br><br>🧊 Additional Interests:<br><br>In addition to my core pursuits, I occasionally contribute to global computing initiatives such as GIMPS and BOINC, engaging in large scale distributed scientific computation projects.
 ---
 
 ## 📫 Contact
