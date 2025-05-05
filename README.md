@@ -4,10 +4,22 @@
 # About Me:
  Undergraduate Student in Electronics and Telecommunications Engineering<br>
 
- Machine Learning Intern @ IIT BHU<br>
+ **Machine Learning Intern @ IIT BHU**  
+**Summer Mentee @ University of California, Berkeley**
 
- Summer Mentee @ University of California, Berkeley<br><br><br><br> Currently<br><br> Algorithmic & other approaches to autonomous scientific discovery<br><br> Open-endedness and other learning frameworks<br><br> Exploring how artificial intelligence can replicate anf surpass human abstraction, reasoning, and problem solving abilities.<br><br><br><br> Additional Interests:<br><br>In addition to my core pursuits, I occasionally contribute to global computing initiatives such as GIMPS and BOINC, engaging in large scale distributed scientific computation projects.
 ---
+
+### Currently Working On
+
+- Algorithmic & other approaches to autonomous scientific discovery  
+- Open endedness and other learning frameworks  
+- Exploring how artificial intelligence can replicate and surpass human abstraction, reasoning, and problem solving abilities
+
+---
+
+### Additional Interests
+
+In addition to my core pursuits, I occasionally contribute to global computing initiatives such as **GIMPS** and **BOINC**, engaging in large-scale distributed scientific computation projects.
 
 ##  Contact
 **Email:** [research.autonomous.ai@gmail.com](mailto:research.autonomous.ai@gmail.com)
