@@ -1,20 +1,20 @@
 
 
 
-# 💫 About Me:
+# About Me:
 🎓 Undergraduate Student in Electronics and Telecommunications Engineering<br>
 
-🧠 Machine Learning Intern @ IIT BHU<br>
+ Machine Learning Intern @ IIT BHU<br>
 
-🌍 Summer Mentee @ University of California, Berkeley<br><br><br><br>🔬 Currently<br><br>⚙️ Algorithmic & other approaches to autonomous scientific discovery<br><br>♾️ Open-endedness and other learning frameworks<br><br>🧩 Exploring how artificial intelligence can replicate anf surpass human abstraction, reasoning, and problem solving abilities.<br><br><br><br>🧊 Additional Interests:<br><br>In addition to my core pursuits, I occasionally contribute to global computing initiatives such as GIMPS and BOINC, engaging in large scale distributed scientific computation projects.
+ Summer Mentee @ University of California, Berkeley<br><br><br><br>🔬 Currently<br><br> Algorithmic & other approaches to autonomous scientific discovery<br><br> Open-endedness and other learning frameworks<br><br> Exploring how artificial intelligence can replicate anf surpass human abstraction, reasoning, and problem solving abilities.<br><br><br><br> Additional Interests:<br><br>In addition to my core pursuits, I occasionally contribute to global computing initiatives such as GIMPS and BOINC, engaging in large scale distributed scientific computation projects.
 ---
 
-## 📫 Contact
+##  Contact
 **Email:** [research.autonomous.ai@gmail.com](mailto:research.autonomous.ai@gmail.com)
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rahuljaisy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SynthMind_)
 
 # 💻 **Tech Stack**
@@ -36,10 +36,10 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 
-### ✍️ Quote
+###  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alphino1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
