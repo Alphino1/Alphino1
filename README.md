@@ -11,9 +11,9 @@
 
 ### Currently Ongoing Pursuits
 
-- Algorithmic & other approaches to autonomous scientific discovery  
+- Algorithmic approaches to autonomous scientific discovery  
 - Reinforcement Learning and Open endedness  
-- Exploring how artificial intelligence can replicate and surpass human abstraction, reasoning, and problem solving abilities
+- Exploring how artificial intelligence can replicate and surpass human abstraction, generalization and reasoning.
 
 ---
 
