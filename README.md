@@ -9,7 +9,7 @@
 
 ---
 
-### Currently Working On
+### Currently Ongoing Pursuits
 
 - Algorithmic & other approaches to autonomous scientific discovery  
 - Reinforcement Learning and Open endedness  
