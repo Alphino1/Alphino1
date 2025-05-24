@@ -29,23 +29,7 @@ In addition to my core pursuits, I occasionally contribute to global computing i
 ##  Socials:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rahuljaisy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SynthMind_)
 
-# 💻 **Tech Stack**
 
-**Libraries:**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks:**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)   
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-**Visualization:**  
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Scientific Computing:**  
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 
 ###  Quote
