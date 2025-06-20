@@ -1,0 +1,4 @@
+# This file is intentionally left blank.
+# It is used to ensure that the 'reports/figures/' directory is versioned by Git,
+# even if it is empty. You can remove this file once you add actual image files
+# (e.g., .png, .jpg, .svg) to this directory.

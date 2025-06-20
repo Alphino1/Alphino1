@@ -1,0 +1,7 @@
+# This file is intentionally left blank.
+# It is used to ensure that the 'models/' directory is versioned by Git,
+# even if it is empty. You can remove this file once you add actual model files
+# (e.g., .pkl, .h5) to this directory.
+#
+# Note: Large model files are often added to .gitignore. If you plan to do so,
+# this .gitkeep file will still ensure the directory structure is present.

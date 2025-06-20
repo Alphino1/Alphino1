@@ -1,0 +1,4 @@
+# This file is intentionally left blank.
+# It is used to ensure that the '.github/workflows/' directory is versioned by Git,
+# even if it is empty. You can remove this file once you add actual GitHub Actions
+# workflow files (e.g., main.yml) to this directory.

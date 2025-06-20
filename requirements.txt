@@ -1,0 +1,38 @@
+# Basic Python
+python>=3.8
+
+# Core data science libraries
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Cheminformatics (essential for SMILES processing and molecular fingerprints)
+rdkit-pypi
+
+# Jupyter environment (for running notebooks)
+jupyterlab
+notebook
+
+# Gradient Boosting libraries (examples, choose based on your preference)
+xgboost
+lightgbm
+# catboost
+
+# Optional: For code formatting and linting (good practice)
+# black
+# flake8
+# isort
+
+# Optional: For experiment tracking
+# mlflow
+# optuna # For hyperparameter optimization
+
+# Add other specific dependencies as your project evolves.
+# You can generate/update this file using:
+# pip freeze > requirements.txt
+# or preferably manage dependencies with a tool like Poetry or Conda environments.
