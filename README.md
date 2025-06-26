@@ -13,8 +13,6 @@
 
 - Algorithmic approaches to autonomous scientific discovery  
 - Reinforcement Learning and Open endedness  
-- Exploring how artificial intelligence can replicate and surpass human abstraction, generalization and reasoning.
-
 ---
 
 ### Additional Interests
