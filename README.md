@@ -24,7 +24,7 @@ In addition to my core pursuits, I occasionally contribute to global computing i
 ---
 
 ##  Socials:
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rahuljaisy)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/alphino)
 
 ###  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
