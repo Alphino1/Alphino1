@@ -12,7 +12,7 @@
 ### Currently Ongoing Pursuits
 
 - Algorithmic approaches to autonomous scientific discovery  
-- Machine Learning and Open endedness  
+- Machine Learning, Reinforcement Learning and Open endedness  
 ---
 
 ### Additional Interests
