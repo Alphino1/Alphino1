@@ -5,7 +5,7 @@
  Undergraduate Student in Electronics and Telecommunications Engineering<br>
 
  **Machine Learning Intern @ IIT BHU**  
-**Summer Mentee @ University of California, Berkeley**
+**Research Mentee @ University of California, Berkeley**
 
 ---
 
