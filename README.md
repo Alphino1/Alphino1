@@ -4,8 +4,9 @@
 # About Me:
  Undergraduate Student in Electronics and Telecommunications Engineering<br>
 
- **Machine Learning Intern @ IIT BHU**  
-**Research Mentee @ University of California, Berkeley**
+ **Machine Learning Intern @ IIT BHU**
+ 
+**Research Mentee'25 @ University of California, Berkeley**
 
 ---
 
