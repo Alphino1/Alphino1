@@ -6,14 +6,16 @@
 
  **Machine Learning Intern @ IIT BHU**
  
-**Research Mentee'25 @ University of California, Berkeley**
+**NLP Research Mentee'25 @ University of California, Berkeley**
 
 ---
 
 ### Currently Ongoing Pursuits
 
-- Algorithmic approaches to autonomous scientific discovery  
-- Machine Learning, Reinforcement Learning and Open endedness  
+- Learning driven image-based visual intelligence through adaptive inference mechanisms.
+
+- Zero and few shot prompting techniques with large language models to facilitate robust, reliable generative modeling in specialized materials science research.
+  
 ---
 
 ### Additional Interests
