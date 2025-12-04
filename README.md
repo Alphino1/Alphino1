@@ -24,7 +24,7 @@
 In addition to my core pursuits, I occasionally contribute to global computing initiatives such as **GIMPS** and **BOINC**, engaging in large-scale distributed scientific computation projects.
 
 ##  Contact
-**Email:** [research.autonomous.ai@gmail.com](mailto:research.autonomous.ai@gmail.com)
+**Alternative Email:** [research.autonomous.ai@gmail.com](mailto:research.autonomous.ai@gmail.com)
 ---
 
 
