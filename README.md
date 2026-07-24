@@ -2,12 +2,9 @@
 
 
 # About Me:
- Undergraduate Student in Electronics and Telecommunications Engineering<br>
+ Currently Independent Researcher
 
 **Machine Learning Intern @ [IIT BHU](https://www.iitbhu.ac.in)**
- 
-**NLP Research Mentee'25 @ University of California, Berkeley**
-(Currently Independent Research Collaboration) 
 
 ---
 
