@@ -12,7 +12,7 @@
 
 - Learning driven image-based visual intelligence through adaptive inference mechanisms.
 
-- Zero and few shot prompting techniques with large language models to facilitate robust, reliable generative modeling in specialized materials science research.
+- Zero and few shot prompting techniques with large language models to facilitate robust, reliable generative modeling.
   
 ---
 
