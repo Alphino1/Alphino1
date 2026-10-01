@@ -7,14 +7,7 @@
 **Machine Learning Intern @ [IIT BHU](https://www.iitbhu.ac.in)**
 
 ---
-
-### Currently Ongoing Pursuits
-
-- Learning driven image-based visual intelligence through adaptive inference mechanisms.
-
-- Zero and few shot prompting techniques with large language models to facilitate robust, reliable generative modeling.
   
----
 
 ### Additional Interests
 
