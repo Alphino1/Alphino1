@@ -4,7 +4,6 @@
 # About Me:
  Currently Independent Researcher
 
-**Machine Learning Intern @ [IIT BHU](https://www.iitbhu.ac.in)**
 
 ---
   
